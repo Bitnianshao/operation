@@ -1,0 +1,9 @@
+﻿  4.cpp
+c:\users\王琪瑶\desktop\4\4\4.cpp(29): warning C4305: “return”: 从“int”到“char”截断
+c:\users\王琪瑶\desktop\4\4\4.cpp(29): warning C4309: “return”: 截断常量值
+c:\users\王琪瑶\desktop\4\4\4.cpp(22): warning C4101: “op”: 未引用的局部变量
+c:\users\王琪瑶\desktop\4\4\4.cpp(32): warning C4715: “Operator”: 不是所有的控件路径都返回值
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+4.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  4.vcxproj -> C:\Users\王琪瑶\Desktop\4\Debug\4.exe
+  4.vcxproj -> C:\Users\王琪瑶\Desktop\4\Debug\4.pdb (Full PDB)
